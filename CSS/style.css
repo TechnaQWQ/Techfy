@@ -11,7 +11,7 @@ nav{
     background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(49,49,49,1) 35%, rgba(49,049,50,1) 100%);
     padding: 10pxs;
     width: 90%;
-    max-width: 500px;
+    max-width: 490px;
     height: 710px;
     display: flex;
     flex-direction: column;
